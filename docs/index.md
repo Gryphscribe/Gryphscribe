@@ -3,7 +3,7 @@ This is my personal website. I hope you enjoy :)
 
 ## Contents
 
-### [Read Me](../README.md)
+### [Template](_pageTemplate.md)
 
 ---
 Footer
