@@ -15,7 +15,8 @@ Frequent Requests:
 - Problem Solving Skills
 - Shipped Game Projects
 - Addressing Performance and Optimization
-- Networked code and distributed system knowledge  
+- Networked code and distributed system knowledge
+
 Frequent Tasks
 - Improve existing frameworks
 - Design and implement new features/tools
@@ -93,7 +94,8 @@ Responsible for automated testing and reporting systems
 - Basic Linux System Administrator knowledge
 - Good knowledge of Python
 - Strong knowledge of continuous integration pipeline
-- Strong interpersonal skills and problem-solving ability  
+- Strong interpersonal skills and problem-solving ability
+
 **Bonus Skills:**
 - Professional software development experience in C++
 - Expert in performance profiling
@@ -160,7 +162,8 @@ Provide a range of game and content scripting solutions with a visual scripting 
 - Understand the fundamentals of game design system
 - Experience with Unity, Unreal, or other similar game engines
 - Understand the wide range of game engine systems where visual scripting solutions can be used
-- Shipped 2+ games  
+- Shipped 2+ games
+
 **Bonus:**
 - Experience helping others achieve their best through game dev tools
 - Experience with a diversity of content creation tools within a game engine
@@ -210,13 +213,15 @@ I would classify the following as my strongest hard skills
 - Data-Driven Architecture
 	- Especially Data-Driven Input Systems
 - Automation
-- Markdown  
+- Markdown
+
 The hard skills below I have experience in, and while I'm not as confident in them, I would be happy working on projects where my work involves using them
 - Distributed Systems
 - Computer Networking
 - Procedural Content Generation
 - Data Visualization
-- Custom Engines  
+- Custom Engines
+
 And these are Hard Skills I don't believe I have, but saw come up in a few of the job descriptions
 - Unreal Experience
 - Profiling & Optimization of Code
@@ -230,7 +235,8 @@ I would classify the following as my strongest soft skills
 - Breaking apart a problem into easily digestible pieces
 	- And in such a way that each part can seamlessly interact with one another
 - Documentation
-- Personal Time & Task Management (Have a Trello Board for homework)  
+- Personal Time & Task Management (Have a Trello Board for homework)
+
 The following soft skills I would say I have to a degree, but would rather not have to use them at this point in time
 - People Management
 - Teaching
