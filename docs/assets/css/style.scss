@@ -1,10 +1,9 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
 $main-color: #8f60e9;
 $header: $main-color;
+
+@import "{{ site.theme }}";
 
 header {
   border-bottom: 1px dashed $main-color;
