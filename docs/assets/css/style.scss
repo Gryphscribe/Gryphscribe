@@ -21,3 +21,7 @@ hr {
   color: $main-color;
   border-bottom: 1px dashed $main-color;
 }
+
+ul li {
+  list-style-image: none;
+}
