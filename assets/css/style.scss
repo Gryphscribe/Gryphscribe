@@ -1,8 +1,13 @@
 ---
 ---
 $text-color: #8f60e9;
+$header: $text-color;
 
 @import "{{ site.theme }}";
 header {
   border-bottom: 1px dashed $text-color;
+}
+
+header h1 {
+  color: $text-color;
 }
