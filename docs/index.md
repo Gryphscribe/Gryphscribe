@@ -1,3 +1,8 @@
 # Hi!
 This is my personal website. I hope you enjoy :)
-[Read Me](../README.md)
+[ReadMe]
+
+---
+Footer
+
+[ReadMe] ReadMe "../README.md"
