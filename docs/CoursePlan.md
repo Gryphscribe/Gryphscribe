@@ -264,6 +264,7 @@ As a stretch goal, if the website is at a place where I am happy, and I have eno
 | Week 12 (11/18 - 11/24) | Second Video Finalized & on Website<br>Third Video Draft                                                                                                                      |
 | Week 13 (11/25 - 12/1)  | Third Video Finalized & on Website<br>Career Narrative Artifacts Due                                                                                                          |
 | Week 14 (12/2 - 12/6)   | Polish + Stretch Goals                                                                                                                                                        |
+
 Final Deliverables:
 - Full Website hosted on GitHub with the following markdown pages
 	- Projects
