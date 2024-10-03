@@ -1,17 +1,22 @@
 ---
 ---
-$text-color: #8f60e9;
-$header: $text-color;
+
+{ $main-color: #8f60e9; }
+$header: $main-color;
 
 @import "{{ site.theme }}";
 header {
-  border-bottom: 1px dashed $text-color;
+  border-bottom: 1px dashed $main-color;
 }
 
 header h1 {
-  color: $text-color;
+  color: $main-color;
 }
 
 a {
   text-shadow: 0 0 0px;
+}
+
+hr {
+  color: $main-color;
 }
