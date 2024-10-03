@@ -1,7 +1,9 @@
 # Hi!
 This is my personal website. I hope you enjoy :)
 
-## [ReadMe]
+## Contents
+
+### [ReadMe]
 
 ---
 Footer
