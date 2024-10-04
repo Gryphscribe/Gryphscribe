@@ -6,7 +6,7 @@ Brainstorm about how to work on this while remaining excited about the work itse
 
 True Goal: More confident in my resources to send to jobs but also how to find jobs in my realm of interest?  
 # Contents
-## [Job Research](jobresearch)
+## [Job Research](#Job%20Research)
 ## [Personal Assessment](#"Personal Assessment")
 # Job Research
 Overall, I researched a majority of Tools Related Programmer positions, alongside a couple of Technical Design positions and a few Gameplay Programmer positions. Although most of the Programmer and Engineer jobs requested strong C++ and C# skills, there were a few that asked for Python skills, and not all of them required any specific language. Conversely, Riot Games' Technical Game Designer position specifically called out familiarity and comfortability with C++. One interesting note is that of the three Gameplay Programmer positions I researched, the one at Supergiant (from October 2022) was more similar to the Tools Programmer positions at other companies than the Gameplay Programmer ones. It included requests about code design patterns and iteration, while the Gameplay Programmer positions posted at Epic and Riot had more focus on the initial creation of features in their postings. The technical design positions I researched had similar non-programming skill requests, although EA's posting didn't have any required languages, other than stating that knowledge in a scripting language would be helpful.  
@@ -287,5 +287,3 @@ Fill out LinkedIn with references, skills, and descriptions of job experiences
 Automated Website Page Creation  
 	Front page automatically links to all markdown files in root directory  
 	Blog page automatically links to all markdown files in blogs directory  
-
-[jobresearch]: CoursePlane.md#'Job Research'
