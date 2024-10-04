@@ -288,4 +288,4 @@ Automated Website Page Creation
 	Front page automatically links to all markdown files in root directory  
 	Blog page automatically links to all markdown files in blogs directory  
 
-[jobresearch]: #Job Research
+[jobresearch]: CoursePlane.md#'Job Research'
