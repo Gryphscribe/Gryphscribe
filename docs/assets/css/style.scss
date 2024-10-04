@@ -22,6 +22,10 @@ hr {
   border-bottom: 1px dashed $main-color;
 }
 
+th {
+  border-bottom: 1px dashed $main-color;
+}
+
 ul li {
-  list-style-image: none;
+  list-style-image: url(../images/bullet.png);
 }
