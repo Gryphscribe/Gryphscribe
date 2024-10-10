@@ -1,3 +1,4 @@
+# Course Plan <!-- omit from toc -->
 # Table of Contents <!-- omit from toc -->
 - [Overview](#overview)
 - [Job Research](#job-research)
