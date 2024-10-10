@@ -51,6 +51,7 @@ Frequent Tasks
 - Design and implement new features/tools
 - Develop automation, build tools, and unit tests
 - Work with UI/UX Teams and QA
+
 ## [Senior Tools Programmer, Applied Usability - Epic Games](https://www.linkedin.com/jobs/view/3955165243/?alternateChannel=search&refId=tk3L4SwIedATUO4B0BBvrw%3D%3D&trackingId=UO2kSxGQfat2bEQ%2FjcE14A%3D%3D&trk=d_flagship3_notifications&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Work across areas and and systems identifying workflow pain points, designing solutions, and implementing them  
 Passionate about UI, UX, and usability  
@@ -64,6 +65,7 @@ Analyze and fix game engine problems such as performance and memory issues
 - Experience writing tools that improve the customer's user experience, iteration, and development time
 - Passion participating in UX design, developing automated tests, adding profiling and analytics to monitor user behaviors
 - User-focused, solutions-focused, and innovative
+
 ## [Senior Tools Programmer - Epic Games](https://www.linkedin.com/jobs/view/3984826252/?alternateChannel=search&refId=tk3L4SwIedATUO4B0BBvrw%3D%3D&trackingId=9oPauURS%2B5B6QxOFD%2FwpPQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Develop cutting edge tools that enhance motion design and linear content workflows  
 Advance the linear content production tools in unreal engine  
@@ -78,6 +80,7 @@ Support the integration of motion design and linear content creation tools with 
 - Experience with UI/UX development
 - Strong problem-solving skills
 - Can lead a team of developers
+
 ## [Tools Programmer Intern - Epic Games](https://www.linkedin.com/jobs/view/4013926184/?alternateChannel=search&refId=tk3L4SwIedATUO4B0BBvrw%3D%3D&trackingId=mdIPebKoK4CFKogHCW6RGg%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Part of the Fortnite Ecosystem Team, working on UEFN  
 Working on tools that improve how the team builds, test, and makes features  
@@ -93,6 +96,7 @@ Collaborate with a wide variety of Fortnite programming and content creation tea
 - Familiarity or willingness to learn C++
 - A passion for maximizing developer efficiency and product quality through automation
 - Interest in game engines and game development concepts such as scripting, exporters, data processing, packaging, deployment
+
 ## [Gameplay Programmer Intern - Epic Games](https://www.linkedin.com/jobs/view/4022383230/?alternateChannel=search&refId=tk3L4SwIedATUO4B0BBvrw%3D%3D&trackingId=TNQ5WZsomGex7MpHENnCmQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Work with art and design to create and iterate on game features  
 Prototype new features  
@@ -103,6 +107,7 @@ Write robust, maintainable C++ code
 - Strong C++ knowledge
 - Experience with gameplay coding using C++
 - Familiarity with UE and understanding of blueprints
+
 ## [Unity Engineer II - MobilityWare](https://www.linkedin.com/jobs/view/4002110658/?alternateChannel=search&refId=8bKuZL%2FvAXTbS9egBqTnPw%3D%3D&trackingId=HKHWZ%2B3lMeP4WgQKJJ9NSQ%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Hands-on engineer, using Unity C# for features.  
 Build, maintain, and enhance games in Unity C#  
@@ -111,6 +116,7 @@ Develop tools, utilities, and pipelines for our designers, production staff, and
 **Qualifications:**
 - Strong Unity C# experience, with an emphasis on 2D, UI, and/or game logic
 - Strong object oriented skills
+
 ## [Build Programmer - Bethesda](https://www.linkedin.com/jobs/view/4029648198/?alternateChannel=search&refId=8bKuZL%2FvAXTbS9egBqTnPw%3D%3D&trackingId=STYamPDUh5AA2E2UlBOkdg%3D%3D&trk=d_flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BzfSKfAYxSXKojaVTDgin%2Fw%3D%3D)
 Work with game leads to design and define development infrastructure  
 Responsible for end-to-end development infrastructure systems  
@@ -130,6 +136,7 @@ Responsible for automated testing and reporting systems
 - Expert in performance profiling
 - Experience with SQL
 - Knowledgeable of web programming
+
 ## [Gameplay Engineer - Supergiant](https://www.supergiantgames.com/blog/career-opportunity-gameplay-engineer/)
 Deep knowledge of video games, including theirs  
 Expert understanding of multiple code design patterns  
@@ -143,6 +150,7 @@ Reinforce a high standard for cleanly implementing systems and content
 - Fluent in Lua or similar game scripting language  
 - Fluent in XML, JSON, or similar data file format  
 - Worked with at least one major game engine  
+
 ## [Technical Game Designer - Riot Games](https://www.riotgames.com/en/work-with-us/job/6101008/technical-game-designer-league-of-legends-game-modes-sydney-australia)
 Design and improve the player experience  
 	Focusing on significant problem spaces and key features  
@@ -156,6 +164,7 @@ Anticipate player needs regarding game modes
 - Identify a problem, develop a range of solutions to it, and select the most appropriate one  
 - Deeply understand player needs, especially related to deep, meaningful player connections  
 - Comfortable with C++ and can work across a complex codebase for features and tools  
+
 ## [Software Engineer III (Tools & Engine) - Riot Games](https://www.riotgames.com/en/work-with-us/job/6032712/software-engineer-iii-tools-engine-teamfight-tactics-los-angeles-usa)
 Developing patterns, tooling, and standards for gameplay  
 Implementation of foundational systems including, UI foundations, cross-platform support, CI/CD pipelines, performance, art and gameplay tools  
@@ -168,6 +177,7 @@ Implementation of foundational systems including, UI foundations, cross-platform
 - Worked with Gameplay Ability System (GAS) in Unreal
 - Online SaaS game development experience
 - Experience building developer workflows
+
 ## [Software Engineer III (Gameplay/Gameplay Tools) - Riot Games](https://www.riotgames.com/en/work-with-us/job/6032710/software-engineer-iii-gameplay-gameplay-tools-teamfight-tactics-los-angeles-usa)
 Create new gameplay mechanics  
 Develop tools and workflows that make it easier for designers and artists to create  
@@ -182,6 +192,7 @@ Improve tools and workflows to make it easier for developers to create
 - Experience building game content tools and pipelines
 - Experience with software development, including shipping one or more products
 	- On large codebases that span a range of platforms and tools
+
 ## [Technical Designer - EA](https://ea.gr8people.com/jobs/179814/technical-designer-scripting)
 Directly contribute to and push the boundaries of game scripting tools and workflows  
 Help make development process more creator-centric by linking engineers and game creators  
@@ -197,6 +208,7 @@ Provide a range of game and content scripting solutions with a visual scripting 
 - Experience helping others achieve their best through game dev tools
 - Experience with a diversity of content creation tools within a game engine
 - Experience with Gameplay AI systems and methods
+
 ## [Software Engineer C#/WPF - EA](https://ea.gr8people.com/jobs/185613/software-engineer-cwpf)
 Working with a team responsible for an engine's level and object editor, data analysis package, and other content creator-focused applications  
 Build software infrastructure for a rich suite of applications and features tailored for content creators  
@@ -206,6 +218,7 @@ Work with UX, product owners, and customers to perfect feature implementations
 - Solid knowledge of C# and .NET
 - Understanding of game engines such as Unity or Unreal
 - Familiarity with Source Control (Perforce, SVN, GIT)
+
 ## [Software Engineer - Frostbite Architecture - EA](https://ea.gr8people.com/jobs/184551/software-engineer-frostbite-architecture-c)
 Works with engine teams to realize technical features  
 Design and architect technological solutions to improve the engine based on strategic need  
@@ -217,6 +230,7 @@ Produce documentation covering the usage and tech decisions of your work
 - Experience in systems engineering, engine tooling, or rendering systems
 - Knowledge of programming fundamentals such as algorithms, data structures, and optimization
 - Experience in the game industry or with a game engine
+
 ## [Senior Software Engineer - Tools - Blizzard](https://careers.blizzard.com/global/en/job/R023852/Senior-Software-Engineer-Tools-Overwatch-Irvine-CA)
 Unlock the potential of artists and designers to create compelling and epic features that will keep players engaged for years to come  
 Deep understanding of the challenges facing content creators  
@@ -228,6 +242,7 @@ Extend and refactor the existing development framework to maximize individual pr
 - High level of proficiency with WPF
 - UI Design experience
 - Experience with SQL databases
+
 # Personal Assessment
 ## Professional Identity
 The most descriptive title I might give myself would be a "Tools Engineer with a specialty in Technical Design", describing the core areas of work I would like to do. I have the most interest in the process of designing elegant and efficient tools that make it possible for me or my team to more efficiently create new content. I have a deep inclination to automate as much as I can, so that as soon as a piece of data is updated, the functionality of the game is updated accordingly.   
@@ -256,6 +271,7 @@ And these are Hard Skills I don't believe I have, but saw come up in a few of th
 - Profiling & Optimization of Code
 - Python
 - Database Programming
+
 ### Soft Skills
 I would classify the following as my strongest soft skills
 - Developing team resources for efficiency
@@ -269,6 +285,7 @@ I would classify the following as my strongest soft skills
 The following soft skills I would say I have to a degree, but would rather not have to use them at this point in time
 - People Management
 - Teaching
+
 ## How to Convey Professional Identity
 I would say that, across the board, I'm fairly bad at conveying who I am and what I can do, outside of personal interviews and skills tests. I have a habit of down playing what I can do, which makes it hard to create any content or artifacts that demonstrate it. As such, my Resume, Website, and LinkedIn are all pretty barren or outdated, as the task of figuring out how to sell myself is often overwhelming.  
 Ideally, my Resume and LinkedIn have very similar content, with LinkedIn being a more general point of contact, while the Resume shifts based on what job I am applying for. Additionally, these two should both pull from my website, which has all of the content that would be on my resume, but in an expanded form. This would include blog articles, demo videos, and a detailed timeline of academic, professional, and personal projects.  
