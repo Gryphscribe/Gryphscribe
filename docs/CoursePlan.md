@@ -1,5 +1,28 @@
-# Table of Contents
+# Table of Contents <!-- omit from toc -->
 - [Job Research](#job-research)
+	- [Senior Tools Programmer, Applied Usability - Epic Games](#senior-tools-programmer-applied-usability---epic-games)
+	- [Senior Tools Programmer - Epic Games](#senior-tools-programmer---epic-games)
+	- [Tools Programmer Intern - Epic Games](#tools-programmer-intern---epic-games)
+	- [Gameplay Programmer Intern - Epic Games](#gameplay-programmer-intern---epic-games)
+	- [Unity Engineer II - MobilityWare](#unity-engineer-ii---mobilityware)
+	- [Build Programmer - Bethesda](#build-programmer---bethesda)
+	- [Gameplay Engineer - Supergiant](#gameplay-engineer---supergiant)
+	- [Technical Game Designer - Riot Games](#technical-game-designer---riot-games)
+	- [Software Engineer III (Tools \& Engine) - Riot Games](#software-engineer-iii-tools--engine---riot-games)
+	- [Software Engineer III (Gameplay/Gameplay Tools) - Riot Games](#software-engineer-iii-gameplaygameplay-tools---riot-games)
+	- [Technical Designer - EA](#technical-designer---ea)
+	- [Software Engineer C#/WPF - EA](#software-engineer-cwpf---ea)
+	- [Software Engineer - Frostbite Architecture - EA](#software-engineer---frostbite-architecture---ea)
+	- [Senior Software Engineer - Tools - Blizzard](#senior-software-engineer---tools---blizzard)
+- [Personal Assessment](#personal-assessment)
+	- [Professional Identity](#professional-identity)
+		- [Hard Skills](#hard-skills)
+		- [Soft Skills](#soft-skills)
+	- [How to Convey Professional Identity](#how-to-convey-professional-identity)
+	- [Course Focus Areas](#course-focus-areas)
+		- [Relevant Sources (To Be Updated)](#relevant-sources-to-be-updated)
+- [Weekly Overview \& Deliverables](#weekly-overview--deliverables)
+- [Stretch Goals](#stretch-goals)
 
 Improve Website?  
 	Want to have one, working on it feels like a Task rather than something fun  
