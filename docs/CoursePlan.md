@@ -297,20 +297,21 @@ As a stretch goal, if the website is at a place where I am happy, and I have eno
 [Markdown Setup](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)  
 [Hacker Theme CSS File](https://github.com/pages-themes/hacker/blob/bced1c6cf8dc6a7554aeb8ea8ed64fc695c3609c/_sass/jekyll-theme-hacker.scss)  
 [Foam VSCode Extension](https://foambubble.github.io/foam/)  
+[Video Embedding in Markdown](https://christianheilmann.com/2022/09/14/quick-tip-embedding-youtube-videos-in-github-pages/)
 # Weekly Overview & Deliverables
-| Week (Dates)            | Deliverables (Due at end of the given week)                                                                                                                                   |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Weeks 1-4 (9/3 - 9/29)  | Course Plan                                                                                                                                                                   |
-| Week 5 (9/30 - 10/6)    | Research on GitHub hosted website using Markdown Formatting                                                                                                                   |
-| Week 6 (10/7 - 10/13)   | GitHub repository for website, and initial index page displaying at a GitHub-hosted link<br>Template Page                                                                     |
-| Week 7 (10/14 - 10/20)  | Career Experience Page Complete<br>Blog Gallery Page<br>Blog Template                                                                                                         |
-| Week 8 (10/21-10/27)    | Course Plan Report/Revision<br>Project Page Template<br>Group Academic Project Page Complete w/ Video Placeholders                                                            |
+| Week (Dates)            |                                                                                                                                   Deliverables (Due at end of the given week) |
+| :---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Weeks 1-4 (9/3 - 9/29)  |                                                                                                                                                                   Course Plan |
+| Week 5 (9/30 - 10/6)    |                                                                                                                   Research on GitHub hosted website using Markdown Formatting |
+| Week 6 (10/7 - 10/13)   |                                                                     GitHub repository for website, and initial index page displaying at a GitHub-hosted link<br>Template Page |
+| Week 7 (10/14 - 10/20)  |                                                                                                         Career Experience Page Complete<br>Blog Gallery Page<br>Blog Template |
+| Week 8 (10/21-10/27)    |                                                            Course Plan Report/Revision<br>Project Page Template<br>Group Academic Project Page Complete w/ Video Placeholders |
 | Week 9 (10/28 - 11/3)   | Solo Academic Project Page Complete w/ Video Placeholders<br>Professional Project Page Complete w/ Video Placeholders<br>Personal Project Page Complete w/ Video Placeholders |
-| Week 10 (11/4 - 11/10)  | Project Page Reflection & Concrete Video List<br>First Video Draft                                                                                                            |
-| Week 11 (11/11 - 11/17) | First Video Finalized & on Website<br>Second Video Draft                                                                                                                      |
-| Week 12 (11/18 - 11/24) | Second Video Finalized & on Website<br>Third Video Draft                                                                                                                      |
-| Week 13 (11/25 - 12/1)  | Third Video Finalized & on Website<br>Career Narrative Artifacts Due                                                                                                          |
-| Week 14 (12/2 - 12/6)   | Polish + Stretch Goals                                                                                                                                                        |
+| Week 10 (11/4 - 11/10)  |                                                                                                            Project Page Reflection & Concrete Video List<br>First Video Draft |
+| Week 11 (11/11 - 11/17) |                                                                                                                      First Video Finalized & on Website<br>Second Video Draft |
+| Week 12 (11/18 - 11/24) |                                                                                                                      Second Video Finalized & on Website<br>Third Video Draft |
+| Week 13 (11/25 - 12/1)  |                                                                                                          Third Video Finalized & on Website<br>Career Narrative Artifacts Due |
+| Week 14 (12/2 - 12/6)   |                                                                                                                                                        Polish + Stretch Goals |
 
 Final Deliverables:
 - Full Website hosted on GitHub with the following markdown pages
