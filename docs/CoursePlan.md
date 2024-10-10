@@ -1,4 +1,5 @@
 # Table of Contents <!-- omit from toc -->
+- [Overview](#overview)
 - [Job Research](#job-research)
 	- [Senior Tools Programmer, Applied Usability - Epic Games](#senior-tools-programmer-applied-usability---epic-games)
 	- [Senior Tools Programmer - Epic Games](#senior-tools-programmer---epic-games)
@@ -24,6 +25,7 @@
 - [Weekly Overview \& Deliverables](#weekly-overview--deliverables)
 - [Stretch Goals](#stretch-goals)
 
+# Overview
 Improve Website?  
 	Want to have one, working on it feels like a Task rather than something fun  
 Learn how to sell my work to others without having to physically explain it  
