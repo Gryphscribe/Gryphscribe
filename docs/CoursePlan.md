@@ -278,6 +278,7 @@ As a stretch goal, if the website is at a place where I am happy, and I have eno
 [Ian's Markdown Website Repo](https://github.com/ianelsbree/wiki/tree/main)  
 [Markdown Setup](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll)  
 [Hacker Theme CSS File](https://github.com/pages-themes/hacker/blob/bced1c6cf8dc6a7554aeb8ea8ed64fc695c3609c/_sass/jekyll-theme-hacker.scss)  
+[Foam VSCode Extension](https://foambubble.github.io/foam/)  
 # Weekly Overview & Deliverables
 | Week (Dates)            | Deliverables (Due at end of the given week)                                                                                                                                   |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
