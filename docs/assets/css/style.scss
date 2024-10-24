@@ -1,7 +1,9 @@
 ---
 ---
+{
 $main-color: #8f60e9;
 $header: $main-color;
+}
 
 @import "{{ site.theme }}";
 
