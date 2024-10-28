@@ -11,4 +11,4 @@ This is my personal website. I hope you enjoy :)
 Last Updated: 10/3/2024 4:13 PM
 
 [courseplan]: CoursePlan.md
-[revision]: Course%20Plan%20Revision.md
+[revision]: CoursePlanRevision.md
