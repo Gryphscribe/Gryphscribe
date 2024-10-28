@@ -7,6 +7,8 @@ This is my personal website. I hope you enjoy :)
 ### [Revised Course Plan][revision]
 {% include youtube.html id="5HzhE7rQMA8" %}
 
+{{ Hello World : downcase }}
+
 ---
 Last Updated: 10/3/2024 4:13 PM
 
