@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Tools Engineer studying at DigiPen Institute of Technology. More details Soon :tm:
+I'm a Software Engineer at Roblox. More details Soon :tm:
 
 See Site Here: https://gryphscribe.github.io/Gryphscribe/
 <!--
