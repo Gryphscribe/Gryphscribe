@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer at Roblox. More details Soon :tm:
+More details Soon :tm:
 
 See Site Here: https://gryphscribe.github.io/Gryphscribe/
 <!--
